@@ -8,4 +8,6 @@ public class User {
     private String name;
     private String username;
     private Integer password;
+
+    private String address;//后台人员开发
 }
