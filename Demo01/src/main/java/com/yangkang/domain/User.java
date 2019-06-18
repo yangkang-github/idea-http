@@ -7,4 +7,6 @@ public class User {
     private Integer id;
     private String name;
     private String username;
+
+    private String interest;//兴趣爱好,前端人员开发
 }
