@@ -10,4 +10,6 @@ public class User {
     private Integer password;
 
     private String address;//后台人员开发
+
+    private String interest;//兴趣爱好,前端人员开发
 }
